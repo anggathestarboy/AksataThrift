@@ -6,8 +6,8 @@
             <div class="grid md:grid-cols-2 gap-12 items-center">
                 <div class="slide-in-left">
                     <h1 class="text-4xl md:text-6xl lg:text-8xl font-black mb-6 leading-tight">
-                        <span class="gradient-text">TOKO</span><br>
-                        <span class="text-shadow">THRIFT</span>
+                        <span class="gradient-text">THRIFT</span><br>
+                        <span class="text-shadow">MALANG</span>
                     </h1>
                     <p class="text-lg md:text-xl lg:text-2xl mb-8 text-gray-700 leading-relaxed">
                         Temukan gaya unik Anda dengan koleksi fashion berkualitas tinggi dengan harga terjangkau

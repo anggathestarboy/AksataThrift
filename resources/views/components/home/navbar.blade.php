@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TOKO THRIFT - Temukan Gaya Unik Anda</title>
+    <title>THRIFT MALANG - Temukan Gaya Unik Anda</title>
     @vite('resources/css/app.css')
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
@@ -139,7 +139,7 @@
         <div class="container mx-auto px-6 py-4">
             <div class="flex justify-between items-center">
                 <div class="text-2xl font-black tracking-wider">
-                    TOKO THRIFT
+                    THRIFT MALANG
                 </div>
                 <div class="hidden md:flex items-center space-x-6">
                     <div class="flex space-x-8">

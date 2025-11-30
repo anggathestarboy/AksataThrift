@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TOKO THRIFT - Marketplace Pakaian Bekas Berkualitas</title>
+    <title>THRIFT MALANG - Marketplace Pakaian Bekas Berkualitas</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
@@ -61,7 +61,7 @@
                         <i class="fas fa-tshirt text-xl"></i>
                     </div>
                  <a href="{{  route('user.dashboard')}}">  <div>
-                        <h1 class="text-2xl font-bold tracking-wider">TOKO THRIFT</h1>
+                        <h1 class="text-2xl font-bold tracking-wider">THRIFT MALANG</h1>
                         <p class="text-xs text-gray-300">Preloved Fashion</p>
                     </div></a> 
                 </div>

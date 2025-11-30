@@ -217,7 +217,7 @@ Beli Sekarang
                         <div class="bg-white text-black p-2 rounded-lg">
                             <i class="fas fa-tshirt"></i>
                         </div>
-                        <span class="text-xl font-bold">TOKO THRIFT</span>
+                        <span class="text-xl font-bold">THRIFT MALANG</span>
                     </div>
                     <p class="text-gray-400 mb-4">Platform marketplace terpercaya untuk fashion thrift berkualitas tinggi.</p>
                     <div class="flex space-x-4">
@@ -249,7 +249,7 @@ Beli Sekarang
                 </div>
                 <div>
                     <h5 class="font-semibold mb-4">Dapatkan pengalaman yang terbaik</h5>
-                    <p class="text-gray-400 mb-4">Kepuasan pelanggan adalah tugas kami, selalu ikuti perkembangan dari <i>Toko Thrift</i></p>
+                    <p class="text-gray-400 mb-4">Kepuasan pelanggan adalah tugas kami, selalu ikuti perkembangan dari <i>Thrift Malang</i></p>
 
                 </div>
             </div>

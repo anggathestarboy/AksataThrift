@@ -4,7 +4,7 @@
         <div class="container mx-auto px-6">
             <div class="flex flex-col md:flex-row justify-between items-center">
                 </div>
-                <p class="text-center">&copy; 2025 Toko Thrift. All rights reserved.</p>
+                <p class="text-center">&copy; 2025 Thrift Malang. All rights reserved.</p>
             </div>
         </div>
     
